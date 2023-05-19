@@ -1,3 +1,6 @@
+body{
+	background-color:#2E97AE;
+}
 #est{
     font-family:fantasy; 
     font-size: 85px;
@@ -10,8 +13,17 @@
     background-color: #E8DAEF ;
 }
 .estilos{
-    background-color: #EBF5FB ;
+    background-color: #B2DBE4 ;
 }
+
+.bg-custom{
+	background-color: #1C4F77 ;
+}
+.nav-link{
+	background-color:#E2ECF3;
+}
+
+
 #fam{
     font-size: 20px;
     font-family: optima;

@@ -35,7 +35,7 @@ body {
     margin: 10px 20px 10px 0px;
     background-color: #fff!important;
     padding: 10px;
-    min-height: 1200px;
+    min-height: 900px;
 }
 
 .page-head-line {
@@ -92,17 +92,25 @@ body {
 .user-img-div {
     min-height: 140px;
     padding: 20px;
-    background-color: #4380B8;
+    background-color: #B2DBE4;
 }
 
     .user-img-div img {
         max-height: 60px;
     }
 
-    .user-img-div .inner-text {
+    .user-img-div  {
         text-align: right;
         position: relative;
         color: #fff;
+        font-weight: 800;
+        line-height: 25px;
+    }
+	
+	.inner-text {
+        text-align: right;
+        position: relative;
+        color: black;
         font-weight: 800;
         line-height: 25px;
     }
@@ -184,7 +192,7 @@ body {
 }
 
 .navbar-cls-top {
-    background: #00CA79;
+    background: #1C4F77;
     border-bottom: none;
 }
 
